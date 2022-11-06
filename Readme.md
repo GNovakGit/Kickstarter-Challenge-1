@@ -1,10 +1,10 @@
-# Purpose: Visulize kickstarter data so a client can determine certain variables and outcomes. 
+# Kickstarter Data Visualization
 
-## Overview: Created pivot charts, pivot tables, and filtered/sorted data
+## Purpose: Organize and sort kickstarter data to forcast Luise's crowd funding potential success.
 
-### Purpose
+### Overview: Created pivot charts, pivot tables, and filtered/sorted data. visualized campaign outcomes based on launch dates and their funding goals through the use of pivot charts. 
 
-# Analysis and Challenges
+# Analysis and Challenges: Challenges include 
 
 ### Outcomes based on Launch Date
 
