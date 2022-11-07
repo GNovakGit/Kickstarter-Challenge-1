@@ -6,7 +6,9 @@
 
 ## Challenges and Analysis: 
 
-### Remembering to sort by the subcategory "plays" and parent category "theaters" was critical to remove unwanted outliers.When looking at the [outcomes based on goals](https://github.com/GNovakGit/Kickstarter-Challenge-1/blob/main/Outcomes_vs_Goals.png) pivot table, it is evident that 54%-76% of successful play campaigns have a funding goal range of roughly $1,000 to $10,000 and $35,000 to $40,000. 80% of plays failed at a goal of $25,000 to $29,999. Noteably, 100% of plays failed with a funding goal of $45,000 to $49,999 and 83% of plays failed with goals greater than or equal to $50,000. Therefore, the most succesful campaigns had goals of less than $1,000 up to $4,999.
+### Remembering to sort by the subcategory "plays" and parent category "theaters" was critical to remove unwanted outliers.
+
+### When looking at the [outcomes based on goals](https://github.com/GNovakGit/Kickstarter-Challenge-1/blob/main/Outcomes_vs_Goals.png) pivot table, it is evident that 54%-76% of successful play campaigns have a funding goal range of roughly $1,000 to $10,000 and $35,000 to $40,000. 80% of plays failed at a goal of $25,000 to $29,999. Noteably, 100% of plays failed with a funding goal of $45,000 to $49,999 and 83% of plays failed with goals greater than or equal to $50,000. Therefore, the most succesful campaigns had goals of less than $1,000 up to $4,999.
 
 ### The outcomes based on launch date [Line Chart](https://github.com/GNovakGit/Kickstarter-Challenge-1/blob/main/Theatre_Outcomes_vs_Launch_Graph.png) indicates the most sucessful theatre campaigns were launched in May, June, and July. Failed campaigns are noticeable in October, May, and July. December indicates a month when the number of successful and failed theatre campaigns were roughly the same. 
 
