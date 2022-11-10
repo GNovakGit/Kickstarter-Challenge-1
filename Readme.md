@@ -16,7 +16,9 @@
 
 ### The outcomes based on launch date [Line Chart](https://github.com/GNovakGit/Kickstarter-Challenge-1/blob/main/Theatre_Outcomes_vs_Launch_Graph.png) indicates the most sucessful theatre campaigns were launched in May, June, and July. Failed campaigns are noticeable in October, May, and July. December indicates a month when the number of successful and failed theatre campaigns were roughly the same. 
 
-### ----SUMMARY OF LIMITATIONS OF DATA SET / RECOMMENDTION FOR ADDITIONAL TABLES/GRAPHS
+#### Limitations of the data include Year. If we include data from other years it would expand the results. 
+
+#### We could include other charts relating to average donations vs. outcomes, or average donation vs. date creted. 
 
 #### [Theatre Outcomes Based on Launch Date](https://github.com/GNovakGit/Kickstarter-Challenge-1/blob/main/Theatre_Outcomes_vs_Launch_Graph.png)
 
